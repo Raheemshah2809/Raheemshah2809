@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemshah2809&label=Profile%20views&color=0e75b6&style=flat" alt="raheemshah2809" /> </p>
 
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2959%26project%3D%26in=0">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheemshah2809" alt="raheemshah2809" /></a> </p>
 
 - 🔭 I’m currently working on [The Ultimate Travel Guide](https://github.com/Raheemshah2809/Ultimate-Travel-Guide)
